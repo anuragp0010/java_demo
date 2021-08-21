@@ -7,8 +7,8 @@ public class Calculator {
 		int num1 =35;
 		int num2 =5;
 		
-		CalculatorApp.Multiply(num1,num2);
-		CalculatorApp.Divide(num1,num2);
+		Calculator.Multiply(num1,num2);
+		Calculator.Divide(num1,num2);
 
 	}
 	
